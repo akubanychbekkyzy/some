@@ -1,0 +1,49 @@
+@media screen and (max-width:430px) {
+    .header_top_block {
+        flex-direction: column;
+    }
+
+    .header_top_block h1 {
+        font-size: 18px;
+    }
+
+    header nav {
+        display: none;
+    }
+
+    .quest_section {
+        flex-direction: column;
+    }
+
+    .about_app h2 {
+        font-size: 24px;
+    }
+
+    .video_img {
+        width: 330px;
+    }
+
+    .img_play {}
+
+    .main_card {
+        display: none;
+    }
+
+    .project h2 {
+        font-size: 24px;
+    }
+
+    .text_project {
+        font-size: 15px;
+    }
+
+    .download h2 {
+        font-size: 24px;
+    }
+
+    .download p {
+        font-size: 15px;
+    }
+
+    .footer_wrapper {}
+}
